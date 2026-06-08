@@ -47,7 +47,6 @@ npm run dev
 
 ## 💡 Dev Notes
 
-- This was inspired by/sourced from Codegrid!!❤️
 - The grid is built entirely in JS — no markup in the HTML, blocks are injected dynamically on `DOMContentLoaded`
 - `detectionRadius` controls how close the cursor needs to be before triggering activation; tweak this for tighter or looser feel
 - `emptyRatio` and `scrambleRatio` add visual noise — some blocks are blank, others scramble continuously while active
@@ -58,6 +57,7 @@ npm run dev
 
 ## 📚 Inspiration / Credits
 
+- This was inspired by/sourced from Codegrid!!❤️
 - Inspired by symbol/glitch hover effects seen in editorial and portfolio sites
 - Typography: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
 
