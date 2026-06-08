@@ -6,7 +6,7 @@
 
 ## 🖼 Preview
 
-![App Preview](media/hover-effect-symbol.gif)
+![App Preview](media/hover-effect-symbols.gif)
 
 ---
 
